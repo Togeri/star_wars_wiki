@@ -1,0 +1,18 @@
+
+/* @font-face kit by Fonts2u (https://fonts2u.com) */ 
+@font-face {
+  font-family:"STARWARS";
+  src: url("STARWARS.woff") format("woff");
+  font-weight:normal;
+  font-style:normal;
+}
+
+  .App {
+    text-align: center;
+  }
+
+  h1 { 
+    font-family: "STARWARS";
+    color:yellow;
+    letter-spacing: 0.12em;
+  }

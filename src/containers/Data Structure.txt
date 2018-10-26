@@ -1,0 +1,105 @@
+Films: 
+
+Characters = [] (needs a .name property)
+Created
+Director
+Edited
+Opening Crawl
+Planets = [] (needs a .name property)
+Producer
+Release Date
+Species = [] (needs a .name property)
+Starships = [] (needs a .name property)
+Title
+Vehicles = [] (needs a .name property)
+url
+
+
+People: 
+
+birth_year
+eye_color
+films = [] (needs a .title property)
+gender
+hair_color
+height
+homeworld
+mass
+name
+skin_color
+species = [] (needs a .name property)
+starships = [] (needs a .name property)
+vehicles = [] (needs a .name property)
+url
+
+
+Planets: 
+
+climate
+diameter
+films = [] (needs a .title property)
+gravity
+name
+orbital_period
+population
+residents = [] (needs a .name property)
+rotation_period
+surface_water (%)
+terrain
+url
+
+
+Species
+
+average_height
+average_lifespan
+classification
+designation
+eye_colors
+films = [] (needs a .title property)
+hair_colors
+homeworld
+language
+name
+people = [] (needs a .name property)
+skin_colors
+url
+
+
+Starships
+
+MGLT
+cargo_capacity
+consumables
+cost_in_credits
+crew
+films = [] (needs a .title property)
+hyperdrive_rating
+length
+manufacturer
+max_atmosphering_speed
+model
+name
+passengers
+pilots = [] (needs a .name property)
+starship_class 
+url
+
+
+
+Vehicles
+
+cargo_capacity
+consumables
+cost_in_credits
+crew
+films = [] (needs a .title property)
+length
+manufacturer
+max_atmosphering_speed
+model
+name
+passengers
+pilots = [] (needs a .name property)
+vehicle_class 
+url
